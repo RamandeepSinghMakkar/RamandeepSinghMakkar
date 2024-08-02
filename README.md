@@ -1,7 +1,3 @@
-[![Ramandeep Singh Makkar’s github stats](https://github-readme-stats.vercel.app/api?username=RamandeepSinghMakkar)](https://github.com/RamandeepSinghMakkar)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamandeepSinghMakkar&layout=compact)](https://github.com/RamandeepSinghMakkar)
-
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -34,3 +30,6 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramandeepsinghmakkar&show_icons=true&locale=en&layout=compact" alt="ramandeepsinghmakkar" /></p>
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RamandeepSinghMakkar&layout=compact)](https://github.com/RamandeepSinghMakkar)
