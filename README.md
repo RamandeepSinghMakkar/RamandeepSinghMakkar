@@ -6,8 +6,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Ramandeep Singh Makkar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramandeepsinghmakkar&label=Profile%20views&color=0e75b6&style=flat" alt="ramandeepsinghmakkar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramandeepsinghmakkar" alt="ramandeepsinghmakkar" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/RamandeepSinghMakkar](https://github.com/RamandeepSinghMakkar)
 
 - 📫 How to reach me **ramandeepsinghmakkar199@gmail.com**
