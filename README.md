@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramandeepsinghmakkar&label=Profile%20views&color=0e75b6&style=flat" alt="ramandeepsinghmakkar" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/RamandeepSinghMakkar](https://github.com/RamandeepSinghMakkar)
-[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-brightgreen)](https://ramandeepsinghmakkar-portfolio.netlify.app)
+- [![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-brightgreen)](https://ramandeepsinghmakkar-portfolio.netlify.app)
 - 📫 How to reach me **ramandeepsinghmakkar199@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
