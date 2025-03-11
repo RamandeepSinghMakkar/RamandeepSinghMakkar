@@ -1,5 +1,12 @@
 # Hi there, I'm **Ramandeep Singh Makkar** 👋
 
+<div align="center" style="margin-bottom: 16px;">
+  <a href="https://drive.google.com/file/d/14EoJ5_MSqNWND9Z5IQ76ydwjlOHCB3SY/view" target="_blank" style="margin: 0 12px; text-decoration: none; font-weight: bold; color: #f5576c;">Resume</a> • 
+  <a href="https://www.linkedin.com/in/ramandeep-singh-makkar/" target="_blank" style="margin: 0 12px; text-decoration: none; font-weight: bold; color: #0077b5;">LinkedIn</a> • 
+  <a href="https://ramandeepsinghmakkar-portfolio.netlify.app" target="_blank" style="margin: 0 12px; text-decoration: none; font-weight: bold; color: #34a853;">Portfolio</a> • 
+  <a href="mailto:ramandeepsinghmakkar199@gmail.com" target="_blank" style="margin: 0 12px; text-decoration: none; font-weight: bold; color: #ea4335;">Gmail</a>
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramandeepsinghmakkar&label=Profile%20views&color=0e75b6&style=flat" alt="ramandeepsinghmakkar" />
 </p>
@@ -102,7 +109,7 @@ I welcome networking, collaborations, and new opportunities. Connect with me on:
       <a href="https://ramandeepsinghmakkar-portfolio.netlify.app" target="_blank">
         <img src="https://img.icons8.com/color/64/000000/domain.png" alt="Website" width="56" height="56"/>
       </a>
-      <br/><sub style="font-size: 14px; color: #fff;"><b>Website</b></sub>
+      <br/><sub style="font-size: 14px; color: #fff;"><b>Portfolio</b></sub>
     </td>
     <td align="center">
       <a href="mailto:ramandeepsinghmakkar199@gmail.com" target="_blank">
