@@ -1,26 +1,26 @@
-<!-- Gradient Header -->
-<div style="background: linear-gradient(90deg, #f093fb, #f5576c); padding: 20px; border-radius: 10px; text-align: center; color: #fff; margin-bottom: 20px;">
-  <h1 style="margin: 0; font-size: 2.5em;">Hi there, I'm <strong>Ramandeep Singh Makkar</strong> 👋</h1>
-  <p style="font-size: 1.2em;">Developer | Data Scientist | Lifelong Learner</p>
+<!-- HERO SECTION -->
+<div style="background: linear-gradient(45deg, #ff6ec4, #7873f5, #4ade80, #facc15); padding: 40px; border-radius: 20px; text-align: center; color: #fff; margin-bottom: 30px;">
+  <h1 style="font-size: 3em; margin: 0;">Hi there, I'm <strong>Ramandeep Singh Makkar</strong> 👋</h1>
+  <p style="font-size: 1.5em; margin: 5px 0;">Developer | Data Scientist | Creative Thinker</p>
 </div>
 
-<!-- Navbar -->
-<div align="center" style="margin-bottom: 20px;">
-  <a href="https://drive.google.com/file/d/14EoJ5_MSqNWND9Z5IQ76ydwjlOHCB3SY/view" target="_blank" style="margin: 0 12px; text-decoration: none; font-weight: bold; color: #f5576c;">Resume</a> • 
-  <a href="https://www.linkedin.com/in/ramandeep-singh-makkar/" target="_blank" style="margin: 0 12px; text-decoration: none; font-weight: bold; color: #0077b5;">LinkedIn</a> • 
-  <a href="https://ramandeepsinghmakkar-portfolio.netlify.app" target="_blank" style="margin: 0 12px; text-decoration: none; font-weight: bold; color: #34a853;">Portfolio</a> • 
-  <a href="mailto:ramandeepsinghmakkar199@gmail.com" target="_blank" style="margin: 0 12px; text-decoration: none; font-weight: bold; color: #ea4335;">Gmail</a>
+<!-- NAVBAR -->
+<div align="center" style="margin-bottom: 30px; font-family: sans-serif;">
+  <a href="https://drive.google.com/file/d/14EoJ5_MSqNWND9Z5IQ76ydwjlOHCB3SY/view" target="_blank" style="margin: 0 15px; font-size: 1.2em; color: #ff6ec4; text-decoration: none; font-weight: bold;">Resume</a> |
+  <a href="https://www.linkedin.com/in/ramandeep-singh-makkar/" target="_blank" style="margin: 0 15px; font-size: 1.2em; color: #7873f5; text-decoration: none; font-weight: bold;">LinkedIn</a> |
+  <a href="https://ramandeepsinghmakkar-portfolio.netlify.app" target="_blank" style="margin: 0 15px; font-size: 1.2em; color: #4ade80; text-decoration: none; font-weight: bold;">Portfolio</a> |
+  <a href="mailto:ramandeepsinghmakkar199@gmail.com" target="_blank" style="margin: 0 15px; font-size: 1.2em; color: #facc15; text-decoration: none; font-weight: bold;">Gmail</a>
 </div>
 
-<!-- Profile Views -->
+<!-- PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramandeepsinghmakkar&label=Profile%20views&color=0e75b6&style=flat" alt="ramandeepsinghmakkar" />
 </p>
 
 ---
 
-<!-- About Me -->
-## <span style="background: #34a853; padding: 5px 10px; border-radius: 5px; color: #fff;">About Me</span>
+<!-- ABOUT ME -->
+## <span style="background: linear-gradient(45deg, #ff6ec4, #facc15); padding: 5px 10px; border-radius: 5px; color: #fff;">About Me</span>
 
 I'm a passionate developer, data scientist, and lifelong learner specializing in Python, machine learning, and full-stack development. I thrive on tackling complex challenges and transforming innovative ideas into elegant, real-world solutions. Whether I'm crafting advanced algorithms or designing intuitive user interfaces, my goal is to create impactful, user-centric experiences.
 
@@ -28,8 +28,8 @@ I'm a passionate developer, data scientist, and lifelong learner specializing in
 
 ---
 
-<!-- Table of Contents -->
-## <span style="background: #4285F4; padding: 5px 10px; border-radius: 5px; color: #fff;">Table of Contents</span>
+<!-- TABLE OF CONTENTS -->
+## <span style="background: linear-gradient(45deg, #4ade80, #7873f5); padding: 5px 10px; border-radius: 5px; color: #fff;">Table of Contents</span>
 
 - [About Me](#-about-me)
 - [Portfolio & Projects](#-portfolio--projects)
@@ -39,8 +39,8 @@ I'm a passionate developer, data scientist, and lifelong learner specializing in
 
 ---
 
-<!-- Portfolio & Projects -->
-## <span style="background: #fbbc05; padding: 5px 10px; border-radius: 5px; color: #000;">Portfolio & Projects</span>
+<!-- PORTFOLIO & PROJECTS -->
+## <span style="background: linear-gradient(45deg, #fbbc05, #ea4335); padding: 5px 10px; border-radius: 5px; color: #fff;">Portfolio & Projects</span>
 
 Discover my work and projects:
 
@@ -49,8 +49,8 @@ Discover my work and projects:
 
 ---
 
-<!-- Skills & Technologies -->
-## <span style="background: #ea4335; padding: 5px 10px; border-radius: 5px; color: #fff;">Skills & Technologies</span>
+<!-- SKILLS & TECHNOLOGIES -->
+## <span style="background: linear-gradient(45deg, #34a853, #4285F4); padding: 5px 10px; border-radius: 5px; color: #fff;">Skills & Technologies</span>
 
 ### Programming Languages & Tools
 <p align="center">
@@ -83,27 +83,27 @@ Discover my work and projects:
 
 ---
 
-<!-- GitHub Stats -->
-## <span style="background: #8e24aa; padding: 5px 10px; border-radius: 5px; color: #fff;">GitHub Stats</span>
+<!-- GITHUB STATS -->
+## <span style="background: linear-gradient(45deg, #8e24aa, #d81b60); padding: 5px 10px; border-radius: 5px; color: #fff;">GitHub Stats</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramandeepsinghmakkar&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ramandeepsinghmakkar&show_icons=true&theme=onedark&hide_border=true&locale=en" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramandeepsinghmakkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramandeepsinghmakkar&layout=compact&theme=onedark&hide_border=true" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramandeepsinghmakkar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramandeepsinghmakkar&theme=onedark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-<!-- Connect with Me -->
-## <span style="background: #1976d2; padding: 5px 10px; border-radius: 5px; color: #fff;">Connect with Me</span>
+<!-- CONNECT WITH ME -->
+## <span style="background: linear-gradient(45deg, #1976d2, #00acc1); padding: 5px 10px; border-radius: 5px; color: #fff;">Connect with Me</span>
 
 I welcome networking, collaborations, and new opportunities. Connect with me on:
 
-<table align="center" style="margin: auto; border-collapse: separate; border-spacing: 16px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 16px; border-radius: 12px;">
+<table align="center" style="margin: auto; border-collapse: separate; border-spacing: 16px; background: linear-gradient(135deg, #f093fb, #f5576c); padding: 16px; border-radius: 12px;">
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/ramandeep-singh-makkar" target="_blank">
@@ -119,7 +119,7 @@ I welcome networking, collaborations, and new opportunities. Connect with me on:
     </td>
     <td align="center">
       <a href="https://ramandeepsinghmakkar-portfolio.netlify.app" target="_blank">
-        <img src="https://img.icons8.com/color/64/000000/domain.png" alt="Website" width="56" height="56"/>
+        <img src="https://img.icons8.com/color/64/000000/domain.png" alt="Portfolio" width="56" height="56"/>
       </a>
       <br/><sub style="font-size: 14px; color: #fff;"><b>Portfolio</b></sub>
     </td>
