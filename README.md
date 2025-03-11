@@ -89,8 +89,8 @@ I welcome networking, collaborations, and new opportunities. Connect with me on:
   <a href="https://www.linkedin.com/in/ramandeep-singh-makkar" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/ramandeep_singh_makkar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://ramandeepsinghmakkar-portfolio.netlify.app" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" height="30" width="40" />
   </a>
 </p>
 
