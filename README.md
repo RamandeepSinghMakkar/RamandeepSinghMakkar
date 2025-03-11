@@ -19,7 +19,6 @@ I'm a passionate developer, data scientist, and lifelong learner specializing in
 - [Skills & Technologies](#skills--technologies)
 - [GitHub Stats](#github-stats)
 - [Connect with Me](#connect-with-me)
-- [Get in Touch](#get-in-touch)
 
 ---
 
@@ -80,29 +79,49 @@ Discover my work and projects:
 </p>
 
 ---
+
 ## Connect with Me
 
 I welcome networking, collaborations, and new opportunities. Connect with me on:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ramandeep-singh-makkar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align: middle;" />
-  </a>
-  <a href="https://ramandeepsinghmakkar-portfolio.netlify.app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/icons/globe.svg" alt="Website" height="30" style="vertical-align: middle;" />
-  </a>
-  <a href="https://github.com/RamandeepSinghMakkar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" height="30" style="vertical-align: middle;" />
-  </a>
-</p>
-
----
-
-## Get in Touch
-
-Have a question, a project idea, or simply want to say hello? Drop me an email:
-
-- **Email:** [ramandeepsinghmakkar199@gmail.com](mailto:ramandeepsinghmakkar199@gmail.com)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ramandeep-singh-makkar" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RamandeepSinghMakkar" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="48" height="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://ramandeepsinghmakkar-portfolio.netlify.app" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" width="48" height="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:ramandeepsinghmakkar199@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="48" height="48"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub><b>LinkedIn</b></sub>
+    </td>
+    <td align="center">
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center">
+      <sub><b>Website</b></sub>
+    </td>
+    <td align="center">
+      <sub><b>Email</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
