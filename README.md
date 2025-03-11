@@ -69,13 +69,13 @@ Discover my work and projects:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramandeepsinghmakkar&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ramandeepsinghmakkar&show_icons=true&theme=radical&hide_border=true&locale=en" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramandeepsinghmakkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramandeepsinghmakkar&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramandeepsinghmakkar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramandeepsinghmakkar&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -84,31 +84,31 @@ Discover my work and projects:
 
 I welcome networking, collaborations, and new opportunities. Connect with me on:
 
-<table align="center" style="margin: auto;">
+<table align="center" style="margin: auto; border-collapse: separate; border-spacing: 16px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 16px; border-radius: 12px;">
   <tr>
-    <td align="center" style="padding: 12px;">
+    <td align="center">
       <a href="https://www.linkedin.com/in/ramandeep-singh-makkar" target="_blank">
         <img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="LinkedIn" width="56" height="56"/>
       </a>
-      <br/><sub style="font-size: 14px;"><b>LinkedIn</b></sub>
+      <br/><sub style="font-size: 14px; color: #fff;"><b>LinkedIn</b></sub>
     </td>
-    <td align="center" style="padding: 12px;">
+    <td align="center">
       <a href="https://github.com/RamandeepSinghMakkar" target="_blank">
         <img src="https://img.icons8.com/fluency/64/000000/github.png" alt="GitHub" width="56" height="56"/>
       </a>
-      <br/><sub style="font-size: 14px;"><b>GitHub</b></sub>
+      <br/><sub style="font-size: 14px; color: #fff;"><b>GitHub</b></sub>
     </td>
-    <td align="center" style="padding: 12px;">
+    <td align="center">
       <a href="https://ramandeepsinghmakkar-portfolio.netlify.app" target="_blank">
         <img src="https://img.icons8.com/color/64/000000/domain.png" alt="Website" width="56" height="56"/>
       </a>
-      <br/><sub style="font-size: 14px;"><b>Website</b></sub>
+      <br/><sub style="font-size: 14px; color: #fff;"><b>Website</b></sub>
     </td>
-    <td align="center" style="padding: 12px;">
+    <td align="center">
       <a href="mailto:ramandeepsinghmakkar199@gmail.com" target="_blank">
         <img src="https://img.icons8.com/color/64/000000/email.png" alt="Email" width="56" height="56"/>
       </a>
-      <br/><sub style="font-size: 14px;"><b>Email</b></sub>
+      <br/><sub style="font-size: 14px; color: #fff;"><b>Email</b></sub>
     </td>
   </tr>
 </table>
