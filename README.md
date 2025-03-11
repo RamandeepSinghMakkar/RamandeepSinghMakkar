@@ -1,19 +1,26 @@
-# Hi there, I'm **Ramandeep Singh Makkar** 👋
+<!-- Gradient Header -->
+<div style="background: linear-gradient(90deg, #f093fb, #f5576c); padding: 20px; border-radius: 10px; text-align: center; color: #fff; margin-bottom: 20px;">
+  <h1 style="margin: 0; font-size: 2.5em;">Hi there, I'm <strong>Ramandeep Singh Makkar</strong> 👋</h1>
+  <p style="font-size: 1.2em;">Developer | Data Scientist | Lifelong Learner</p>
+</div>
 
-<div align="center" style="margin-bottom: 16px;">
+<!-- Navbar -->
+<div align="center" style="margin-bottom: 20px;">
   <a href="https://drive.google.com/file/d/14EoJ5_MSqNWND9Z5IQ76ydwjlOHCB3SY/view" target="_blank" style="margin: 0 12px; text-decoration: none; font-weight: bold; color: #f5576c;">Resume</a> • 
   <a href="https://www.linkedin.com/in/ramandeep-singh-makkar/" target="_blank" style="margin: 0 12px; text-decoration: none; font-weight: bold; color: #0077b5;">LinkedIn</a> • 
   <a href="https://ramandeepsinghmakkar-portfolio.netlify.app" target="_blank" style="margin: 0 12px; text-decoration: none; font-weight: bold; color: #34a853;">Portfolio</a> • 
   <a href="mailto:ramandeepsinghmakkar199@gmail.com" target="_blank" style="margin: 0 12px; text-decoration: none; font-weight: bold; color: #ea4335;">Gmail</a>
 </div>
 
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramandeepsinghmakkar&label=Profile%20views&color=0e75b6&style=flat" alt="ramandeepsinghmakkar" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<!-- About Me -->
+## <span style="background: #34a853; padding: 5px 10px; border-radius: 5px; color: #fff;">About Me</span>
 
 I'm a passionate developer, data scientist, and lifelong learner specializing in Python, machine learning, and full-stack development. I thrive on tackling complex challenges and transforming innovative ideas into elegant, real-world solutions. Whether I'm crafting advanced algorithms or designing intuitive user interfaces, my goal is to create impactful, user-centric experiences.
 
@@ -21,7 +28,8 @@ I'm a passionate developer, data scientist, and lifelong learner specializing in
 
 ---
 
-## 📑 Table of Contents
+<!-- Table of Contents -->
+## <span style="background: #4285F4; padding: 5px 10px; border-radius: 5px; color: #fff;">Table of Contents</span>
 
 - [About Me](#-about-me)
 - [Portfolio & Projects](#-portfolio--projects)
@@ -31,7 +39,8 @@ I'm a passionate developer, data scientist, and lifelong learner specializing in
 
 ---
 
-## 📁 Portfolio & Projects
+<!-- Portfolio & Projects -->
+## <span style="background: #fbbc05; padding: 5px 10px; border-radius: 5px; color: #000;">Portfolio & Projects</span>
 
 Discover my work and projects:
 
@@ -40,7 +49,8 @@ Discover my work and projects:
 
 ---
 
-## 🛠️ Skills & Technologies
+<!-- Skills & Technologies -->
+## <span style="background: #ea4335; padding: 5px 10px; border-radius: 5px; color: #fff;">Skills & Technologies</span>
 
 ### Programming Languages & Tools
 <p align="center">
@@ -73,21 +83,23 @@ Discover my work and projects:
 
 ---
 
-## 📊 GitHub Stats
+<!-- GitHub Stats -->
+## <span style="background: #8e24aa; padding: 5px 10px; border-radius: 5px; color: #fff;">GitHub Stats</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramandeepsinghmakkar&show_icons=true&theme=radical&hide_border=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ramandeepsinghmakkar&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramandeepsinghmakkar&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramandeepsinghmakkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramandeepsinghmakkar&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramandeepsinghmakkar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me
+<!-- Connect with Me -->
+## <span style="background: #1976d2; padding: 5px 10px; border-radius: 5px; color: #fff;">Connect with Me</span>
 
 I welcome networking, collaborations, and new opportunities. Connect with me on:
 
