@@ -80,17 +80,19 @@ Discover my work and projects:
 </p>
 
 ---
-
 ## Connect with Me
 
 I welcome networking, collaborations, and new opportunities. Connect with me on:
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ramandeep-singh-makkar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align: middle;" />
   </a>
   <a href="https://ramandeepsinghmakkar-portfolio.netlify.app" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Website" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/icons/globe.svg" alt="Website" height="30" style="vertical-align: middle;" />
+  </a>
+  <a href="https://github.com/RamandeepSinghMakkar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" alt="GitHub" height="30" style="vertical-align: middle;" />
   </a>
 </p>
 
