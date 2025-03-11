@@ -56,12 +56,12 @@ Discover my work and projects:
 
 ### Additional Tools & Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow Badge"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib Badge"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy Badge"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas Badge"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn Badge"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow Badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff?style=flat-square&logo=Matplotlib&logoColor=black" alt="Matplotlib Badge"/>
 </p>
 
 ---
@@ -69,29 +69,17 @@ Discover my work and projects:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramandeepsinghmakkar&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ramandeepsinghmakkar&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramandeepsinghmakkar&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramandeepsinghmakkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramandeepsinghmakkar" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramandeepsinghmakkar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramandeepsinghmakkar&show_icons=true&theme=radical&hide_border=true&locale=en" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramandeepsinghmakkar&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramandeepsinghmakkar&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 ## 🌐 Connect with Me
 
 I welcome networking, collaborations, and new opportunities. Connect with me on:
