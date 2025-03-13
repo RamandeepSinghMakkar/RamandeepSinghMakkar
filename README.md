@@ -4,7 +4,7 @@
     Hi, I'm <strong>Ramandeep Singh Makkar</strong>
   </h1>
   <p style="font-size: 1.8em; margin: 10px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.6);">
-     Data Scientist | Machine Learning Engineer | Creative Thinker
+     Data Scientist | Machine Learning Engineer | Artifical Intelligence Engineer| Creative Thinker
   </p>
 </div>
 
@@ -33,7 +33,7 @@
 <div id="about-me" style="background: url('https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif') no-repeat center center/cover; padding: 40px; border-radius: 15px; margin-bottom: 30px; color: #fff; font-family: 'Helvetica Neue', sans-serif; text-shadow: 1px 1px 3px rgba(0,0,0,0.6);">
   <h2 style="margin-top: 0;">About Me</h2>
   <p style="font-size: 1.2em;">
-    I'm a passionate developer, data scientist, and lifelong learner specializing in Python, machine learning, and full‑stack development.
+    I'm a passionate data scientist, machine learning engineer, artificial intelligence engineer and lifelong learner specializing in Python, machine learning, and full‑stack development.
     I thrive on tackling complex challenges and transforming innovative ideas into elegant, real‑world solutions.
     Whether I'm crafting advanced algorithms or designing intuitive user interfaces, my goal is to create impactful, user‑centric experiences.
   </p>
