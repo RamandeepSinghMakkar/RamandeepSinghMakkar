@@ -4,7 +4,7 @@
     Hi, I'm <strong>Ramandeep Singh Makkar</strong>
   </h1>
   <p style="font-size: 1.8em; margin: 10px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.6);">
-    Developer | Data Scientist | Creative Thinker
+     Data Scientist | Machine Learning Engineer | Creative Thinker
   </p>
 </div>
 
