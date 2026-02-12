@@ -108,7 +108,7 @@
   </p>
   -->
   <p align="center">
-    < img src="https://awesome-github-stats.azurewebsites.net/user-stats/ramandeepsinghmakkar?cardType=level-alternate&fontFamily=&preferLogin=true" alt="My Awesome Stats"/>
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ramandeepsinghmakkar?cardType=level-alternate&fontFamily=&preferLogin=true" alt="My Awesome Stats"/>
    </p>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramandeepsinghmakkar&theme=highcontrast&hide_border=true" alt="GitHub Streak"/>
