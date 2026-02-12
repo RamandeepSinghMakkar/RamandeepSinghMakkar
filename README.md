@@ -106,6 +106,9 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramandeepsinghmakkar&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages"/>
   </p>
+
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ramandeepsinghmakkar?cardType=github&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
+  
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramandeepsinghmakkar&theme=highcontrast&hide_border=true" alt="GitHub Streak"/>
   </p>
