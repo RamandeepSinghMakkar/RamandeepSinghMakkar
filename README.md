@@ -101,7 +101,7 @@
 <div id="github-stats" style="background: linear-gradient(135deg, #ff9a9e, #fecfef); padding: 40px; border-radius: 15px; margin-bottom: 30px; font-family: 'Helvetica Neue', sans-serif;">
   <h2 style="color: #333; margin-top: 0; text-align: center;">GitHub Stats</h2>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ramandeepsinghmakkar&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ramandeepsinghmakkar&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats"/>
   </p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramandeepsinghmakkar&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages"/>
