@@ -100,15 +100,16 @@
 <!-- GITHUB STATS -->
 <div id="github-stats" style="background: linear-gradient(135deg, #ff9a9e, #fecfef); padding: 40px; border-radius: 15px; margin-bottom: 30px; font-family: 'Helvetica Neue', sans-serif;">
   <h2 style="color: #333; margin-top: 0; text-align: center;">GitHub Stats</h2>
-  <p align="center">
+  <!--<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ramandeepsinghmakkar&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats"/>
   </p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramandeepsinghmakkar&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages"/>
   </p>
-
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ramandeepsinghmakkar?cardType=github&theme=github-dark&fontFamily=42dot%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
-  
+  -->
+<p align="center">
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ramandeepsinghmakkar?cardType=level-alternate&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+   </p>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramandeepsinghmakkar&theme=highcontrast&hide_border=true" alt="GitHub Streak"/>
   </p>
